@@ -1,16 +1,13 @@
-## Hi there 👋
+# नमस्ते! 👋 हम हैं UpSarkariJob
 
-<!--
-**UpSarkariJob/upsarkarijob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[UpSarkariJob.com](https://upsarkarijob.com/)** पर आपका स्वागत है। हमारा उद्देश्य सरकारी नौकरी की तलाश कर रहे लाखों युवाओं तक सही और सटीक जानकारी पहुँचाना है।
 
-Here are some ideas to get you started:
+### हम क्या प्रदान करते हैं?
+* ✅ **Latest Job Notifications:** नवीनतम सरकारी भर्ती की जानकारी।
+* ✅ **Exam Admit Cards & Results:** एडमिट कार्ड और परीक्षा परिणामों के सीधे लिंक।
+* ✅ **Syllabus & Preparation:** परीक्षा की तैयारी के लिए महत्वपूर्ण संसाधन।
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🚀 **अभी विजिट करें:** [https://upsarkarijob.com/](https://upsarkarijob.com/)
+---
+*हमारा लक्ष्य: सही जानकारी, सही समय पर।*
